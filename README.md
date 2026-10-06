@@ -88,7 +88,7 @@ This work used analytical resources developed and disseminated by the Gateway Ex
 
 If you use this code in your work, please cite it:
 
-> [Will be updated.]
+> Kan, W., DeJohn, A., Kim, K.(2026). A Three-Layer Multimodal Accessibility Framework for Island and Remote Settings. Zenodo. https://doi.org/10.5281/zenodo.23191711
 
 ## License
 
